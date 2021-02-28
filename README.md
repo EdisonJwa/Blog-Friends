@@ -4,7 +4,7 @@
 
 ```
 "Vigorous Pro":
-    url: https://blog.edison.do
+    url: https://www.wevg.org
     img: https://i.yecdn.com/images/2019/04/28/eb8f0d223a57a56b086fb8c940455aef.png
     text: "The world can always use more heroes."
 ```
