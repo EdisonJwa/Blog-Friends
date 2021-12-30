@@ -28,7 +28,7 @@ jobs:
     - name: Install dependencies
       run: npm install --production
     - run: npm run build
-    - run: echo "/ https://www.wevg.org/ 302" > dist/_redirects && echo "/*" >> dist/_headers && echo "  Access-Control-Allow-Origin: *" >> dist/_headers
+    - run: echo "/ https://www.wevg.org/ 302" > dist/_redirects && echo 'LyoKICBBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW46ICoK' | base64 --decode > dist/_headers
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
