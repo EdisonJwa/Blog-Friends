@@ -28,6 +28,7 @@ jobs:
     - name: Install dependencies
       run: npm install --production
     - run: npm run build
+    - run: echo "/ https://www.wevg.org/ 302" > dist/_redirects
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
