@@ -12,8 +12,11 @@
 
 ### 网站信息
 Title: Vigorous Pro
+
 Slogan: The world can always use more heroes.
+
 Avatar: https://cdn.jsdelivr.net/gh/VigorousPro/blog_icon@master/avatar.png
+
 Logo: https://cdn.jsdelivr.net/gh/VigorousPro/blog_icon@master/icon-512x512.png
 
 
