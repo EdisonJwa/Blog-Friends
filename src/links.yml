@@ -27,11 +27,6 @@
     url: https://never.pet
     img: https://static.hit.moe/blog/source/friends/never.pet/icon.jpeg
     text: "没有简介的迷の生物"
-    
-"梦阳的后宫":
-    url: https://srun.in/
-    img: https://static.hit.moe/blog/source/friends/srun.in/icon.jpg
-    text: "梦阳的后宫"
 
 "LetITFly BBS":
     url: https://bbs.letitfly.me
@@ -87,11 +82,6 @@
     url: https://liyin.date/
     img: https://static.hit.moe/blog/source/friends/liyin.date/icon.png
     text: "用心探知天空的边界"
-
-"兰兰想的魔法世界":
-    url: https://lanhaoo.club/
-    img: https://static.hit.moe/blog/source/friends/lanhaoo.club/avatar.jpg
-    text: "为你带来魔法的网站"
 
 "Netrvin":
     url: https://blog.yuzu.im
@@ -158,7 +148,7 @@
     img: https://cdn.blingwang.cn/head.png
     text: "莓办法 银不了 尽梨了"
 
-"Lazymio's blog.":
+"Lazymio's blog":
     url: https://ihomura.cn
     img: https://static.hit.moe/blog/source/friends/ihomura.cn/avatar.jpg
     text: "Here is for something interesting."
@@ -167,11 +157,6 @@
     url: https://itroy.cc
     img: https://www.gravatar.com/avatar/ec71a4eee7ebf9169c08a171a4445924
     text: "{随便写什么都可以}"
-    
-"Nemo":
-    url: https://kanghaov.com
-    img: https://static.hit.moe/blog/source/friends/2019-08-30-15-33-09.jpg
-    text: ""
 
 "犬's Blog":
     url: https://moedog.org
